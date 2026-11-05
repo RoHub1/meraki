@@ -230,7 +230,7 @@ a { text-decoration: none; color: inherit; }
 .product-card:hover { transform: translateY(-4px); }
 
 .product-img {
-    height: 240px;
+    height: 320px;
     overflow: hidden;
     background: var(--cream-dark);
 }
